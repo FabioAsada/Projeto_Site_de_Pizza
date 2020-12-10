@@ -9,6 +9,8 @@
 
 ![gif desktop](https://github.com/FabioAsada/Projeto_Site_de_Pizza/blob/main/sitePizza.gif)
 
+---
+
 ## Mobile
 
 ![gif mobile](https://github.com/FabioAsada/Projeto_Site_de_Pizza/blob/main/sitePizzaMobile.gif)
